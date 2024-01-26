@@ -1,0 +1,19 @@
+{
+  "name": "discord-context-llm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "ollama-node": "^0.1.27",
+    "path": "^0.12.7",
+    "python-shell": "^5.0.0",
+    "vectra": "^0.1.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "prompt": "commands/llm/prompt.js",
+    "kick": "commands/moderation/kick.js",
+    "prune": "commands/moderation/prune.js",
+    "avatar": "commands/utility/avatar.js",
+    "ping": "commands/utility/ping.js",
+    "server": "commands/utility/server.js",
+    "user": "commands/utility/user.js",
+    "whitelist": "dev-commands/admin/whitelist-user.js",
+    "reload": "dev-commands/dev/reload.js"
+}
